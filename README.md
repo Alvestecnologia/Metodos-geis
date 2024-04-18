@@ -1,2 +1,2 @@
-# Metodos-geis
+# Metodos Ageis
 Projeto desenvolvimento nas aulas de métodos ágéis - 1º Semestre 2024
